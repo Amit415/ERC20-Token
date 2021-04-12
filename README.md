@@ -14,7 +14,7 @@ To get your own ERC20 Token up and running follow these simple example steps.
 
 ### Prerequisites
 
-- Have [MetaMask](https://metamask.io/) installed in your broswer and get some fake ETH in your Ropsten Test Network account by going to [Ropsten Faucet](https://faucet.ropsten.be/)
+- Have [MetaMask](https://metamask.io/) installed in your broswer and get some fake ETH in your Ropsten Test Network account by going to [Ropsten Faucet](https://faucet.ropsten.be/).
 
 ### Setup
 
